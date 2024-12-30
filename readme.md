@@ -151,8 +151,8 @@ Contributions are welcome! Please follow these steps:
 
 ## **Contact**
 If you have any questions or feedback, feel free to reach out:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
+- Email: [samyakforwork@gmail.com](mailto:samyakforwork@gmail.com)
+- GitHub: [samyakingithub](https://github.com/samyakingithub)
 
 ---
 
